@@ -3,7 +3,7 @@
     "license": "MIT",
     "type": "symfony-bundle",
     "description": "google maps apis wrapper bundle",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "authors": [
         {
             "name":     "Gediminas Katilevicius",
