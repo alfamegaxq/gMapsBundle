@@ -27,8 +27,7 @@
         "eightpoints/guzzle-bundle": "^5.2",
         "symfony/assetic-bundle": "^2.8"
     },
-    "target-dir": "alfamegaxq/simple-g-maps",
     "autoload": {
-        "psr-4": { "Alfamegaxq\\SimpleGMapsBundle": "" }
+        "psr-4": { "Alfamegaxq\\SimpleGMapsBundle\\": "" }
     }
 }
