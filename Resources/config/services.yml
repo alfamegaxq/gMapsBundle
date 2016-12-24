@@ -1,5 +1,5 @@
 parameters:
-    autosuggest.service.class: 'SimpleGMapsBundle\Service\AutoSuggestService'
+    autosuggest.service.class: 'Alfamegaxq\SimpleGMapsBundle\Service\AutoSuggestService'
 
 services:
     city_suggest:

@@ -1,6 +1,6 @@
 <?php
 
-namespace SimpleGMapsBundle\DependencyInjection;
+namespace Alfamegaxq\SimpleGMapsBundle\DependencyInjection;
 
 use Symfony\Component\Config\FileLocator;
 use Symfony\Component\DependencyInjection\Loader\YamlFileLoader;

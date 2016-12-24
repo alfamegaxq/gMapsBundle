@@ -1,6 +1,6 @@
 <?php
 
-namespace SimpleGMapsBundle;
+namespace Alfamegaxq\SimpleGMapsBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 

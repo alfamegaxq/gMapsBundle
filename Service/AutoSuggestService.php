@@ -1,6 +1,6 @@
 <?php
 
-namespace SimpleGMapsBundle\Service;
+namespace Alfamegaxq\SimpleGMapsBundle\Service;
 
 use GuzzleHttp\Client;
 
