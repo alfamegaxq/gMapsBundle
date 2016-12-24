@@ -1,5 +1,5 @@
 {
-    "name": "alfamegaxq/GMaps",
+    "name": "alfamegaxq/g-maps",
     "license": "MIT",
     "type": "symfony-bundle",
     "description": "google maps apis wrapper bundle",
