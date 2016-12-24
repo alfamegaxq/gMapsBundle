@@ -1,5 +1,5 @@
 parameters:
-    autosuggest.service.class: 'GMapsBundle\Service\AutoSuggestService'
+    autosuggest.service.class: 'SimpleGMapsBundle\Service\AutoSuggestService'
 
 services:
     city_suggest:

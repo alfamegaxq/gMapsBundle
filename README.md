@@ -15,7 +15,7 @@ google maps places snippets bunde
 
 - in `AppKernel.php`
 ```
-new GMapsBundle\GMapsBundle(),
+new SimpleGMapsBundle\SimpleGMapsBundle(),
 ```
 - add routes in `routing.yml`
 ```

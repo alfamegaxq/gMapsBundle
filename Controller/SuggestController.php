@@ -1,6 +1,6 @@
 <?php
 
-namespace GMapsBundle\Controller;
+namespace SimpleGMapsBundle\Controller;
 
 use GMapsBundle\Service\AutoSuggestService;
 use Sensio\Bundle\FrameworkExtraBundle\Configuration\Route;

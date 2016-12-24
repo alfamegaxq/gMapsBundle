@@ -1,6 +1,6 @@
 <?php
 
-namespace GMapsBundle\DependencyInjection;
+namespace SimpleGMapsBundle\DependencyInjection;
 
 use Symfony\Component\Config\FileLocator;
 use Symfony\Component\DependencyInjection\Loader\YamlFileLoader;
