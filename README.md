@@ -20,7 +20,7 @@ new SimpleGMapsBundle\SimpleGMapsBundle(),
 - add routes in `routing.yml`
 ```
 google_autosuggest:
-    resource: "@GMapsBundle/Controller/"
+    resource: "@SimpleGMapsBundle/Controller/"
     type:     annotation
 ```
 -include scripts
