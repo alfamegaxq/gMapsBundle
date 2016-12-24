@@ -4,6 +4,13 @@
     "type": "symfony-bundle",
     "description": "google maps apis wrapper bundle",
     "version": "1.0.0",
+    "authors": [
+        {
+            "name":     "Gediminas Katilevicius",
+            "email":    "zarokas@gmail.com",
+            "homepage": "https://github.com/alfamegaxq"
+        }
+    ],
     "require": {
         "php": ">=5.5.9",
         "symfony/symfony": "3.1.*",
