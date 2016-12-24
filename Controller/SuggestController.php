@@ -13,7 +13,7 @@ class SuggestController extends Controller
 {
     public function renderCitySuggestAction($inputParams, $language, $country)
     {
-        return $this->render('GMapsBundle:Suggest:suggestInput.html.twig', [
+        return $this->render('SimpleGMapsBundle:Suggest:suggestInput.html.twig', [
             'inputParams' => $inputParams,
             'language' => $language,
             'country' => $country

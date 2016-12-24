@@ -7,7 +7,7 @@ use Symfony\Component\DependencyInjection\Loader\YamlFileLoader;
 use Symfony\Component\HttpKernel\DependencyInjection\Extension;
 use Symfony\Component\DependencyInjection\ContainerBuilder;
 
-class GMapsExtension extends Extension
+class SimpleGMapsExtension extends Extension
 {
     /**
      * @param array            $configs
